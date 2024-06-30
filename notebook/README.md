@@ -1,4 +1,4 @@
-#Notebook#
+# Notebook #
 This directory includes all the laboratory assignments from EEBG-2024, saved as *IPython notebook* (ipynb) files. You can see all files without having to open Google Colab.<br/>
 - Lab Assignment 1: Creating organized file structures for your projects;
 - Lab Assignment 2: Parsing FASTA files with UNIX scripts;
